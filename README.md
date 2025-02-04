@@ -9,6 +9,7 @@
 # 📊 Stats:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="41%" height="auto" />
+[![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImpulseSID)](https://github.com/ImpulseSID/github-readme-stats)
 </div>
 
 
