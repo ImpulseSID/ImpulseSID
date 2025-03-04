@@ -1,6 +1,8 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7880E&center=true&vCenter=true&random=true&width=600&lines=Hi%2C+I'm+Sidharth+Pradeep+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%92%BB;Novice+Web+Developer+%F0%9F%8E%80;Cybersecurity+Explorer+%F0%9F%94%90;Software+Developer+%F0%9F%92%BC;Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
-</h1>  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👾+Gamer+%7C+Coder+%7C+Tech+Enthusiast+🚀;🎮+GG+EZ+-+Life+is+a+Game+💻;⚡+Leveling+Up+One+Code+at+a+Time+⚡" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
