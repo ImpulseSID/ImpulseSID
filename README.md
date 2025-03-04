@@ -78,5 +78,7 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="assets/bonfire.gif" alt="Bonfire" />
+</p>
 **🎯 Fun Fact:** *“There are only 10 types of people in the world: those who understand binary and those who don’t.”* 😆  
