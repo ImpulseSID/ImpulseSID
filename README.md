@@ -2,6 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=👾+Gamer+%7C+Coder+%7C+Tech+Enthusiast+🚀;🎮+GG+EZ+-+Life+is+a+Game+💻;⚡+Leveling+Up+One+Code+at+a+Time+⚡" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7880E&center=true&vCenter=true&random=false&width=600&lines=Fragging+bugs+by+day...;Grinding+ranks+by+night...;Code,+Game,+Repeat!+🎮💻🔥;#CodeNGrind" alt="Typing SVG" />
+  </p>
 </p>
 
 
@@ -87,3 +91,4 @@
   <img src="assets/bonfire.gif" alt="Bonfire" />
 </p>
 🎯 Fun Fact: “There are only 10 types of people in the world: those who understand binary and those who don’t.” 😆  
+
