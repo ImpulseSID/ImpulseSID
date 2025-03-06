@@ -24,22 +24,6 @@
 ---
 
 
-## 🏆 Competitive Programming  
-
-<p align="center">
-  <a href="https://www.hackerrank.com/sidharthprads">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/impulsesid">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/impulsesid">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-</p>
-
-
----
 ## 🚀 Tech Stack  
 
 ### **Languages**  
@@ -100,6 +84,22 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sidharthprads/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Competitive Programming  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/sidharthprads">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/impulsesid">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/impulsesid">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
 </p>
 
