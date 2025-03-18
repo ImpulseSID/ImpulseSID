@@ -89,21 +89,6 @@
 
 ---
 
-## 🏆 Competitive Programming  
-
-<p align="center">
-  <a href="https://www.hackerrank.com/sidharthprads">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/impulsesid">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/impulsesid">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-</p>
-
----
 <p align="center">
   <img src="assets/bonfire.gif" alt="Bonfire" />
 </p>
