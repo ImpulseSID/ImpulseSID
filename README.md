@@ -1,5 +1,4 @@
 <h1 align="center">👾 Gamer | Coder | Tech Enthusiast 🚀</h1>
-<h3 align="center">🎮 GG EZ - Life is a Game 💻</h3>
 <h4 align="center">⚡ Leveling Up One Code at a Time ⚡</h4>
 
 <p align="center">
