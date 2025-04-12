@@ -1,13 +1,13 @@
+<h1 align="center">👾 Gamer | Coder | Tech Enthusiast 🚀</h1>
+<h3 align="center">🎮 GG EZ - Life is a Game 💻</h3>
+<h4 align="center">⚡ Leveling Up One Code at a Time ⚡</h4>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=👾+Gamer+%7C+Coder+%7C+Tech+Enthusiast+🚀;🎮+GG+EZ+-+Life+is+a+Game+💻;⚡+Leveling+Up+One+Code+at+a+Time+⚡" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7880E&center=true&vCenter=true&random=false&width=600&lines=Fragging+bugs+by+day...;Grinding+ranks+by+night...;Code,+Game,+Repeat!+🎮💻🔥;#CodeNGrind" alt="Typing SVG" />
-  </p>
+  <img src="https://img.shields.io/badge/Fragging_Bugs_by_Day...-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grinding_Ranks_by_Night...-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code,_Game,_Repeat!_🎮💻🔥-00CED1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%23CodeNGrind-FFD700?style=for-the-badge" />
 </p>
-
 
 ---
 
@@ -22,7 +22,6 @@
 </p>
 
 ---
-
 
 ## 🚀 Tech Stack  
 
@@ -78,7 +77,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📫 Connect with Me  
@@ -93,5 +91,5 @@
 <p align="center">
   <img src="assets/bonfire.gif" alt="Bonfire" />
 </p>
-🎯 Fun Fact: “There are only 10 types of people in the world: those who understand binary and those who don’t.” 😆  
 
+🎯 **Fun Fact**: “There are only 10 types of people in the world: those who understand binary and those who don’t.” 😆  
