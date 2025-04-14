@@ -1,13 +1,6 @@
 <h1 align="center">👾 Gamer | Coder | Tech Enthusiast 🚀</h1>
 <h4 align="center">⚡ Leveling Up One Code at a Time ⚡</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fragging_Bugs_by_Day...-FF1493?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grinding_Ranks_by_Night...-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code,_Game,_Repeat!_🎮💻🔥-00CED1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%23CodeNGrind-FFD700?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🏆 GitHub Stats  
