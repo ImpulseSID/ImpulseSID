@@ -1,4 +1,4 @@
-<h1 align="center">👾 Gamer | Coder | Tech Enthusiast 🚀</h1>
+<h1 align="center">Coder | Tech Enthusiast</h1>
 <h4 align="center">⚡ Leveling Up One Code at a Time ⚡</h4>
 
 ---
