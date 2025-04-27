@@ -72,6 +72,12 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
+### **Game Development**  
+<p align="center">
+  <img src="https://img.shields.io/badge/pygame-3766AB?style=for-the-badge&logo=pygame&logoColor=white" />
+</p>
+
+
 ---
 
 ## 📫 Connect with Me  
