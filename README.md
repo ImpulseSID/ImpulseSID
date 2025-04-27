@@ -6,6 +6,8 @@
 ## 🏆 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=radical&hide_border=true&border_radius=15" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImpulseSID&theme=radical&hide_border=true&border_radius=15" width="47%" />
+
 </p>  
 
 <p align="center">
