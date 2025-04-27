@@ -5,13 +5,13 @@
 
 ## 🏆 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=github_dark&hide_border=true&border_radius=15" width="47%" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=impulsesid&theme=youtube-dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=neon&hide_border=true&border_radius=15" width="47%" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=impulsesid&theme=neon&hide_border=true" alt="GitHub Streak" /></a>
 
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=github_dark&hide_border=true&layout=compact&border_radius=15" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=neon&hide_border=true&layout=compact&border_radius=15" width="50%" />
 </p>
 
 ---
