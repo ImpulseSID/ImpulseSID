@@ -12,7 +12,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=neon&hide_border=true&layout=compact&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=neon&hide_border=true&layout=compact&border_radius=15" width="45%" />
 </p>
 
 ---
