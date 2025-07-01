@@ -6,8 +6,9 @@
 ## 🏆 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=neon&hide_border=true&border_radius=15" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=neon&hide_border=true&layout=compact&border_radius=15" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&theme=neon&hide_border=true&layout=compact&border_radius=15" width="40%" />
 </p>  
+
 ---
 
 ## 🚀 Tech Stack  
