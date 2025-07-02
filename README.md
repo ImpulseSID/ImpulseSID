@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Impulse</h1>
-<h3 align="center">Coder · Tech Enthusiast · Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=⚡+Leveling+Up+One+Code+at+a+Time!" alt="Typing SVG" />
-</p>
+<h3 align="center">Coder | Tech Enthusiast</h1>
+<h3 align="center">⚡ Leveling Up One Code at a Time ⚡</h3>
 
 ---
 
