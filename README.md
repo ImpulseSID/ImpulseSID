@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Impulse</h1>
+<div align="center">
 
-<h3 align="center">Coder | Tech Enthusiast</h1>
-<h3 align="center">⚡ Leveling Up One Code at a Time ⚡</h3>
+<pre style="background:#1e1e1e;color:#00ff00;padding:20px;border-radius:10px;max-width:800px;overflow:auto;text-align:left;font-family:monospace;font-size:16px">
+$ whoami
+> Impulse – Coder | Tech Enthusiast
+
+$ echo "Leveling Up One Code at a Time ⚡"
+> ⚡ Exploring Web Dev, Python & ML
+
+$ skills --list
+> [ C, C++, Python, Java, JavaScript, React, Node.js, Flask, FastAPI, Firebase, PostgreSQL ]
+
+$ status
+> Currently building cool stuff... 💻🔥
+</pre>
+
+</div>
 
 ---
 
