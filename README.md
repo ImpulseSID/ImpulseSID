@@ -1,65 +1,63 @@
 <div align="center">
 
-<pre style="background:#1e1e1e;color:#00ff00;padding:20px;border-radius:10px;max-width:950px;overflow:auto;text-align:left;font-family:monospace;font-size:15px;line-height:1.6">
+<pre style="background:#0f0f0f;color:#39ff14;padding:20px;border-radius:10px;max-width:960px;overflow:auto;text-align:left;font-family:'Courier New', monospace;font-size:15px;line-height:1.6">
+┌─────────────────────────────────────────────┐
+│               WELCOME TO                   │
+│              CYBERSPACE_404                │
+└─────────────────────────────────────────────┘
+
+> Initializing system... ██████████▒▒ 90%
+> Loading modules... [✓] Core | [✓] React | [✓] Python | [✓] FastAPI
+> Establishing neural uplink with GitHub...
+
 $ whoami
-> Impulse – Coder | Tech Enthusiast
+> Impulse // Coder | Explorer | Technophile
 
-$ echo "Leveling Up One Code at a Time ⚡"
-> ⚡ Exploring Web Dev, Python & ML
+$ echo "Riding the codewave on a neon edge ⚡"
+> ⚡ Web Dev • Python • FastAPI • Firebase • React
 
-$ skills --list
-> [ C, C++, Python, Java, JavaScript, React, Node.js, Flask, FastAPI, Firebase, PostgreSQL ]
-
-$ status
-> Currently building cool stuff... 💻🔥
-
-$ github-stats --show
-> Opening GitHub stats dashboard...
+$ system.status --now
+> ACTIVE | Building some cool sh*t 💻🔥
 
 </pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="41%" />
 
-<pre style="background:#1e1e1e;color:#00ff00;padding:20px;border-radius:10px;max-width:950px;overflow:auto;text-align:left;font-family:monospace;font-size:15px;line-height:1.6">
-$ tech-stack --list
+<pre style="background:#0f0f0f;color:#00ffff;padding:20px;border-radius:10px;max-width:960px;overflow:auto;text-align:left;font-family:'Courier New', monospace;font-size:15px;line-height:1.6">
 
-> LANGUAGES
-  - C, C++, Python, Java, JavaScript
+$ cyber-techstack --list
 
-> FRONTEND
-  - HTML5, CSS3, React, Vite
+🧠 CORE LANGUAGES
+> C • C++ • Python • Java • JavaScript
 
-> BACKEND
-  - Node.js, Express.js, Flask, FastAPI
+🧬 FRONTEND
+> HTML5 • CSS3 • React • Vite
 
-> HOSTING & CLOUD
-  - Vercel, Netlify, GitHub Pages, Render
+🔩 BACKEND
+> Node.js • Express • Flask • FastAPI
 
-> ML & DATA
-  - Numpy, Pandas, Matplotlib, TensorFlow
+☁️ DEPLOYMENT ZONE
+> Vercel • Netlify • GitHub Pages • Render
 
-> DATABASES
-  - MySQL, PostgreSQL, Firebase
+📊 DATA / ML
+> NumPy • Pandas • Matplotlib • TensorFlow
 
-> VERSION CONTROL
-  - Git, GitHub
+💾 DATABASES
+> MySQL • PostgreSQL • Firebase
 
-> GAME DEV
-  - Pygame
+📁 VERSION CONTROL
+> Git • GitHub
 
-</pre>
-
-<pre style="background:#1e1e1e;color:#00ff00;padding:20px;border-radius:10px;max-width:950px;overflow:auto;text-align:left;font-family:monospace;font-size:15px;line-height:1.6">
-$ fun-zone --enter
-> Welcome to the Fun Zone!
+🎮 GAME DEV
+> Pygame
 
 </pre>
 
 <img src="https://raw.githubusercontent.com/ImpulseSID/ImpulseSID/main/assets/bonfire.gif" alt="Bonfire" width="250"/>
 
-<pre style="background:#1e1e1e;color:#00ff00;padding:20px;border-radius:10px;max-width:950px;overflow:auto;text-align:center;font-family:monospace;font-size:15px;line-height:1.6">
-"Code. Break. Fix. Repeat."
+<pre style="background:#0f0f0f;color:#ff00ff;padding:15px;border-radius:10px;max-width:960px;overflow:auto;text-align:center;font-family:'Courier New', monospace;font-size:15px;line-height:1.6">
+"Code like a glitch in the matrix."
 </pre>
 
 </div>
