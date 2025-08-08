@@ -5,7 +5,7 @@ $ whoami
 > Impulse – Coder | Tech Enthusiast
 
 $ echo "Leveling Up One Code at a Time ⚡"
-> ⚡ Exploring Web Dev, Python & ML
+> ⚡ Exploring Web Dev, Python, ML & Android Development
 
 $ skills --list
 > [ C, C++, Python, Java, JavaScript, React, Node.js, Flask, FastAPI, Firebase, PostgreSQL ]
