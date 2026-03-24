@@ -12,7 +12,7 @@ $ skills --list
 
 $ status
 > Currently building cool stuff... 💻🔥
-> https://impulse-sid-portfolio.vercel.app/
+> <a href="https://impulse-sid-portfolio.vercel.app/" target="_blank" style="color:#00ff00; text-decoration:underline;">Visit my Portfolio</a>
 </pre>
 
 </div>
