@@ -19,11 +19,11 @@ $ status
 
 ---
 
-<!-- START_LASTFM_ARTISTS -->
-<!-- END_LASTFM_ARTISTS -->
+<!-- LASTFM_ARTISTS_START -->
+<!-- LASTFM_ARTISTS_END -->
 
-<!-- START_LASTFM_RECENT -->
-<!-- END_LASTFM_RECENT -->
+<!-- LASTFM_RECENT_START -->
+<!-- LASTFM_RECENT_END -->
 
 ---
 
