@@ -21,11 +21,11 @@ $ status
 
 
 <!-- Add this where you want your music stats -->
-START_LASTFM_ARTISTS
-END_LASTFM_ARTISTS
+<!-- START_LASTFM_ARTISTS -->
+<!-- END_LASTFM_ARTISTS -->
 
-START_LASTFM_RECENT
-END_LASTFM_RECENT
+<!-- START_LASTFM_RECENT -->
+<!-- END_LASTFM_RECENT -->
 
 ---
 
