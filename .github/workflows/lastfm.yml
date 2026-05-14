@@ -17,7 +17,7 @@ jobs:
         uses: dxnter/lastfm-readme@v1
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
-          LASTFM_USER: impulseSID
+          LASTFM_USER: ImpulseSID
 
           # Optional: Customize the commit message
           COMMIT_MESSAGE: '🎵 Update music stats'
