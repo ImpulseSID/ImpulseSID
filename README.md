@@ -26,6 +26,9 @@ $ status
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="41%" />
 </p>
 
+<p align="center">
+  <img src="https://lastly.nisarga.me/api/overall?username=impulseSID&period=overall" alt="Last.fm Stats" align="center">
+</p>
 ---
 
 ## 🚀 Tech Stack
