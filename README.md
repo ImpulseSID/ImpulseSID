@@ -19,23 +19,13 @@ $ status
 
 ---
 
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImpulseSID&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImpulseSID&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://lastly.nisarga.me/api/overall?username=impulseSID&period=overall" alt="Last.fm Stats" align="center">
-</p>
 
 <!-- Add this where you want your music stats -->
-<!--START_LASTFM_ARTISTS-->
-<!--END_LASTFM_ARTISTS-->
+START_LASTFM_ARTISTS
+END_LASTFM_ARTISTS
 
-<!--START_LASTFM_RECENT-->
-<!--END_LASTFM_RECENT-->
+START_LASTFM_RECENT
+END_LASTFM_RECENT
 
 ---
 
