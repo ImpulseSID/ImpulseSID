@@ -19,8 +19,6 @@ $ status
 
 ---
 
-
-<!-- Add this where you want your music stats -->
 <!-- START_LASTFM_ARTISTS -->
 <!-- END_LASTFM_ARTISTS -->
 
