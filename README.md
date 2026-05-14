@@ -29,6 +29,14 @@ $ status
 <p align="center">
   <img src="https://lastly.nisarga.me/api/overall?username=impulseSID&period=overall" alt="Last.fm Stats" align="center">
 </p>
+
+<!-- Add this where you want your music stats -->
+<!--START_LASTFM_ARTISTS-->
+<!--END_LASTFM_ARTISTS-->
+
+<!--START_LASTFM_RECENT-->
+<!--END_LASTFM_RECENT-->
+
 ---
 
 ## 🚀 Tech Stack
