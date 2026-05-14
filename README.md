@@ -20,9 +20,29 @@ $ status
 ---
 
 <!--START_LASTFM_ARTISTS-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
+
+> `16 ▶️` ∙ **[Maggie Lindemann](https://www.last.fm/music/Maggie+Lindemann)**<br/>
+> `4 ▶️` ∙ **[As Tequileiras do Funk](https://www.last.fm/music/As+Tequileiras+do+Funk)**<br/>
+> `4 ▶️` ∙ **[Ed Sheeran](https://www.last.fm/music/Ed+Sheeran)**<br/>
+> `3 ▶️` ∙ **[Adele](https://www.last.fm/music/Adele)**<br/>
+> `3 ▶️` ∙ **[Conor Maynard](https://www.last.fm/music/Conor+Maynard)**<br/>
+> `3 ▶️` ∙ **[Harry Styles](https://www.last.fm/music/Harry+Styles)**<br/>
+> `3 ▶️` ∙ **[Lvbel C5](https://www.last.fm/music/Lvbel+C5)**<br/>
+> `3 ▶️` ∙ **[Metro Boomin](https://www.last.fm/music/Metro+Boomin)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!--START_LASTFM_RECENT-->
+<a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
+
+> 🎶 **[We Are the People](https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People)** - Empire of the Sun<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Billie Jean](https://www.last.fm/music/Michael+Jackson/_/Billie+Jean)** - Michael Jackson<br/>
+> ∙ **[Cheri Cheri Lady](https://www.last.fm/music/Modern+Talking/_/Cheri+Cheri+Lady)** - Modern Talking<br/>
+> ∙ **[mutilator (slowed)](https://www.last.fm/music/ZMAJOR/_/mutilator+(slowed))** - ZMAJOR<br/>
+> ∙ **[Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)](https://www.last.fm/music/Metro+Boomin/_/Am+I+Dreaming+(Metro+Boomin+&+A$AP+Rocky,+Roisee))** - Metro Boomin<br/>
+> ∙ **[COOOK PARDON](https://www.last.fm/music/Lvbel+C5/_/COOOK+PARDON)** - Lvbel C5<br/>
+> ∙ **[Bass da da da (Sentadão)](https://www.last.fm/music/As+Tequileiras+do+Funk/_/Bass+da+da+da+(Sentad%C3%A3o))** - As Tequileiras do Funk<br/>
 <!--END_LASTFM_RECENT-->
 
 ---
