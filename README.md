@@ -23,10 +23,10 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 19,610<br/>
+> **Playcount**: 19,620<br/>
 > **Artists**: 1,123<br/>
-> **Albums**: 1,682<br/>
-> **Tracks**: 2,337<br/>
+> **Albums**: 1,683<br/>
+> **Tracks**: 2,338<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
