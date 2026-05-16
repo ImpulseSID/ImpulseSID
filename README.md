@@ -23,28 +23,28 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 19,653<br/>
-> **Artists**: 1,124<br/>
-> **Albums**: 1,684<br/>
-> **Tracks**: 2,339<br/>
+> **Playcount**: 19,682<br/>
+> **Artists**: 1,125<br/>
+> **Albums**: 1,687<br/>
+> **Tracks**: 2,342<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,095 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
+> `1,097 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
 > `691 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
-> `615 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
+> `616 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!-- Your all-time favorites -->
 <!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
-> `56 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
+> `57 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
+> `55 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `54 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
-> `54 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `54 ▶️` ∙ **[Ma Meilleure Ennemie (from the series Arcane League of Legends)](https://www.last.fm/music/Stromae/_/Ma+Meilleure+Ennemie+(from+the+series+Arcane+League+of+Legends))** - [Stromae](https://www.last.fm/music/Stromae)<br/>
 > `52 ▶️` ∙ **[Somebody That You Loved](https://www.last.fm/music/Bruno+Martini/_/Somebody+That+You+Loved)** - [Bruno Martini](https://www.last.fm/music/Bruno+Martini)<br/>
 <!--END_LASTFM_TRACKS-->
