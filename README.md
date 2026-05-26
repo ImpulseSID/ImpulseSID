@@ -23,7 +23,7 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 19,974<br/>
+> **Playcount**: 19,987<br/>
 > **Artists**: 1,127<br/>
 > **Albums**: 1,695<br/>
 > **Tracks**: 2,352<br/>
@@ -46,7 +46,7 @@ $ status
 > `56 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `55 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
 > `54 ▶️` ∙ **[Ma Meilleure Ennemie (from the series Arcane League of Legends)](https://www.last.fm/music/Stromae/_/Ma+Meilleure+Ennemie+(from+the+series+Arcane+League+of+Legends))** - [Stromae](https://www.last.fm/music/Stromae)<br/>
-> `52 ▶️` ∙ **[Somebody That You Loved](https://www.last.fm/music/Bruno+Martini/_/Somebody+That+You+Loved)** - [Bruno Martini](https://www.last.fm/music/Bruno+Martini)<br/>
+> `53 ▶️` ∙ **[Somebody That You Loved](https://www.last.fm/music/Bruno+Martini/_/Somebody+That+You+Loved)** - [Bruno Martini](https://www.last.fm/music/Bruno+Martini)<br/>
 <!--END_LASTFM_TRACKS-->
 
 ---
