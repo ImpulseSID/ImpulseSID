@@ -23,10 +23,10 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 20,389<br/>
+> **Playcount**: 20,408<br/>
 > **Artists**: 1,135<br/>
-> **Albums**: 1,708<br/>
-> **Tracks**: 2,370<br/>
+> **Albums**: 1,713<br/>
+> **Tracks**: 2,374<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
@@ -34,7 +34,7 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
 > `1,132 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
-> `714 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
+> `715 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
 > `625 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
