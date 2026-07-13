@@ -23,19 +23,19 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 21,440<br/>
+> **Playcount**: 21,480<br/>
 > **Artists**: 1,157<br/>
 > **Albums**: 1,751<br/>
-> **Tracks**: 2,421<br/>
+> **Tracks**: 2,422<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,189 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
-> `756 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
-> `655 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
+> `1,193 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
+> `760 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
+> `657 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!-- Your all-time favorites -->
@@ -43,8 +43,8 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
 > `61 ▶️` ∙ **[Not Us Anymore](https://www.last.fm/music/Bradley+Simpson/_/Not+Us+Anymore)** - [Bradley Simpson](https://www.last.fm/music/Bradley+Simpson)<br/>
+> `59 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
 > `59 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
-> `58 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
 > `57 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
 > `56 ▶️` ∙ **[Somebody That You Loved](https://www.last.fm/music/Bruno+Martini/_/Somebody+That+You+Loved)** - [Bruno Martini](https://www.last.fm/music/Bruno+Martini)<br/>
 <!--END_LASTFM_TRACKS-->
