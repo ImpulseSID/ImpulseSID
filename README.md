@@ -23,7 +23,7 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 21,849<br/>
+> **Playcount**: 21,850<br/>
 > **Artists**: 1,158<br/>
 > **Albums**: 1,757<br/>
 > **Tracks**: 2,429<br/>
@@ -33,7 +33,7 @@ $ status
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,222 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
+> `1,223 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
 > `788 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
 > `671 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
@@ -44,7 +44,7 @@ $ status
 
 > `63 ▶️` ∙ **[Not Us Anymore](https://www.last.fm/music/Bradley+Simpson/_/Not+Us+Anymore)** - [Bradley Simpson](https://www.last.fm/music/Bradley+Simpson)<br/>
 > `61 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
-> `60 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
+> `61 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `60 ▶️` ∙ **[Missing You](https://www.last.fm/music/The+Vamps/_/Missing+You)** - [The Vamps](https://www.last.fm/music/The+Vamps)<br/>
 > `57 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
 <!--END_LASTFM_TRACKS-->
