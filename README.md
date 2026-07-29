@@ -23,10 +23,10 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 21,953<br/>
-> **Artists**: 1,160<br/>
-> **Albums**: 1,760<br/>
-> **Tracks**: 2,432<br/>
+> **Playcount**: 21,979<br/>
+> **Artists**: 1,162<br/>
+> **Albums**: 1,762<br/>
+> **Tracks**: 2,434<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
@@ -42,7 +42,7 @@ $ status
 <!--START_LASTFM_TRACKS:{"period": "overall", "rows": 5}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
-> `63 ▶️` ∙ **[Not Us Anymore](https://www.last.fm/music/Bradley+Simpson/_/Not+Us+Anymore)** - [Bradley Simpson](https://www.last.fm/music/Bradley+Simpson)<br/>
+> `64 ▶️` ∙ **[Not Us Anymore](https://www.last.fm/music/Bradley+Simpson/_/Not+Us+Anymore)** - [Bradley Simpson](https://www.last.fm/music/Bradley+Simpson)<br/>
 > `62 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
 > `62 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `60 ▶️` ∙ **[Missing You](https://www.last.fm/music/The+Vamps/_/Missing+You)** - [The Vamps](https://www.last.fm/music/The+Vamps)<br/>
