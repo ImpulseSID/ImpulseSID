@@ -23,7 +23,7 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 22,064<br/>
+> **Playcount**: 22,092<br/>
 > **Artists**: 1,162<br/>
 > **Albums**: 1,762<br/>
 > **Tracks**: 2,434<br/>
@@ -33,9 +33,9 @@ $ status
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,235 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
-> `804 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
-> `682 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
+> `1,238 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
+> `808 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
+> `688 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!-- Your all-time favorites -->
@@ -46,7 +46,7 @@ $ status
 > `62 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
 > `62 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
 > `60 ▶️` ∙ **[Missing You](https://www.last.fm/music/The+Vamps/_/Missing+You)** - [The Vamps](https://www.last.fm/music/The+Vamps)<br/>
-> `57 ▶️` ∙ **[Worse](https://www.last.fm/music/New+Hope+Club/_/Worse)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
+> `58 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
 <!--END_LASTFM_TRACKS-->
 
 ---
