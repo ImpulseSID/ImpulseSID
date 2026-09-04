@@ -23,19 +23,19 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **[User Info - ImpulseSID](https://www.last.fm/user/ImpulseSID)**
 
 > **Registered**: 05/05/2024<br/>
-> **Playcount**: 23,228<br/>
-> **Artists**: 1,179<br/>
-> **Albums**: 1,804<br/>
-> **Tracks**: 2,476<br/>
+> **Playcount**: 23,285<br/>
+> **Artists**: 1,182<br/>
+> **Albums**: 1,812<br/>
+> **Tracks**: 2,484<br/>
 <!--END_LASTFM_USER_INFO-->
 
 <!-- All-time favorites -->
 <!--START_LASTFM_ARTISTS:{"period": "overall", "rows": 3}-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - All Time**
 
-> `1,310 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
-> `867 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
-> `714 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
+> `1,317 ▶️` ∙ **[Niall Horan](https://www.last.fm/music/Niall+Horan)**<br/>
+> `870 ▶️` ∙ **[The Vamps](https://www.last.fm/music/The+Vamps)**<br/>
+> `720 ▶️` ∙ **[One Direction](https://www.last.fm/music/One+Direction)**<br/>
 <!--END_LASTFM_ARTISTS-->
 
 <!-- Your all-time favorites -->
@@ -43,10 +43,10 @@ $ status
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Tracks - All Time**
 
 > `67 ▶️` ∙ **[Not Us Anymore](https://www.last.fm/music/Bradley+Simpson/_/Not+Us+Anymore)** - [Bradley Simpson](https://www.last.fm/music/Bradley+Simpson)<br/>
+> `65 ▶️` ∙ **[Missing You](https://www.last.fm/music/The+Vamps/_/Missing+You)** - [The Vamps](https://www.last.fm/music/The+Vamps)<br/>
 > `64 ▶️` ∙ **[San Francisco](https://www.last.fm/music/Niall+Horan/_/San+Francisco)** - [Niall Horan](https://www.last.fm/music/Niall+Horan)<br/>
-> `64 ▶️` ∙ **[Missing You](https://www.last.fm/music/The+Vamps/_/Missing+You)** - [The Vamps](https://www.last.fm/music/The+Vamps)<br/>
 > `63 ▶️` ∙ **[Love Again](https://www.last.fm/music/New+Hope+Club/_/Love+Again)** - [New Hope Club](https://www.last.fm/music/New+Hope+Club)<br/>
-> `61 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
+> `62 ▶️` ∙ **[Hopeless Romantic](https://www.last.fm/music/Sam+Fischer/_/Hopeless+Romantic)** - [Sam Fischer](https://www.last.fm/music/Sam+Fischer)<br/>
 <!--END_LASTFM_TRACKS-->
 
 ---
