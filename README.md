@@ -16,7 +16,7 @@
 
 ---
 
-## `01` — About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=header&text=01%20%E2%80%94%20About&fontSize=24&fontColor=bb9af7&fontAlign=14&fontAlignY=50" width="100%" alt="About"/>
 
 I'm a developer primarily interested in **Python, machine learning, and data science**. I enjoy exploring datasets, developing analytical workflows, and applying computational techniques to practical problems.
 
@@ -33,19 +33,19 @@ class ImpulseSID:
 
 ---
 
-## `02` — Technical Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=header&text=02%20%E2%80%94%20Technical%20Stack&fontSize=24&fontColor=bb9af7&fontAlign=14&fontAlignY=50" width="100%" alt="Technical Stack"/>
 
 <div align="center">
 
-**Data Science & ML**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Data%20Science%20%26%20ML&fontSize=18&fontColor=7aa2f7&fontAlign=50&fontAlignY=50" width="100%" alt="Data Science & ML"/>
 
 <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow&theme=dark" alt="Data science and ML stack"/>
 
-**Programming**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Programming&fontSize=18&fontColor=7aa2f7&fontAlign=50&fontAlignY=50" width="100%" alt="Programming"/>
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" alt="Programming languages"/>
 
-**Web & Systems**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Web%20%26%20Systems&fontSize=18&fontColor=7aa2f7&fontAlign=50&fontAlignY=50" width="100%" alt="Web & Systems"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,electron,firebase,flask,fastapi,nodejs,mysql,git,linux&theme=dark" alt="Web and systems stack"/>
 
@@ -55,7 +55,7 @@ class ImpulseSID:
 <tr>
 <td width="50%" valign="top">
 
-#### Data Science
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Data%20Science&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="Data Science"/>
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
@@ -66,7 +66,7 @@ class ImpulseSID:
 </td>
 <td width="50%" valign="top">
 
-#### Machine Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Machine%20Learning&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="Machine Learning"/>
 
 - Supervised learning fundamentals
 - Model experimentation
@@ -80,13 +80,13 @@ class ImpulseSID:
 
 ---
 
-## `03` — Featured Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=header&text=03%20%E2%80%94%20Featured%20Work&fontSize=24&fontColor=bb9af7&fontAlign=14&fontAlignY=50" width="100%" alt="Featured Work"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [BoxBox](https://github.com/ImpulseSID/BoxBox)
+<a href="https://github.com/ImpulseSID/BoxBox"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=BoxBox&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="BoxBox"/></a>
 
 A Python toolkit for analyzing and visualizing **Formula 1 telemetry**. Generates interactive HTML charts, including slider-controlled speed traces for every driver and qualifying track-dominance maps split into 10 m mini-sectors.
 
@@ -97,7 +97,7 @@ A Python toolkit for analyzing and visualizing **Formula 1 telemetry**. Generate
 </td>
 <td width="50%" valign="top">
 
-### [NexLock](https://github.com/ImpulseSID/NexLock)
+<a href="https://github.com/ImpulseSID/NexLock"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=NexLock&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="NexLock"/></a>
 
 A secure, user-friendly **password manager** to store, manage, and generate strong passwords. Features Firebase authentication, real-time sync, customizable password generation, and one-click copy.
 
@@ -110,7 +110,7 @@ A secure, user-friendly **password manager** to store, manage, and generate stro
 <tr>
 <td width="50%" valign="top">
 
-### [Osvia](https://github.com/ImpulseSID/Osvia)
+<a href="https://github.com/ImpulseSID/Osvia"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=Osvia&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="Osvia"/></a>
 
 A **YouTube Music frontend** with a dark AMOLED theme, real-time audio visualizer, time-synced lyrics, and a drag-and-drop queue. Fully responsive across desktop and mobile.
 
@@ -121,7 +121,7 @@ A **YouTube Music frontend** with a dark AMOLED theme, real-time audio visualize
 </td>
 <td width="50%" valign="top">
 
-### [ContainmentOS](https://github.com/ImpulseSID/ContainmentOS)
+<a href="https://github.com/ImpulseSID/ContainmentOS"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=44&section=header&text=ContainmentOS&fontSize=18&fontColor=7aa2f7&fontAlign=14&fontAlignY=50" width="100%" alt="ContainmentOS"/></a>
 
 A cross-distro **graphical package manager for Linux** built with Electron. Auto-detects APT, DNF, Pacman, and Zypper, with live terminal logs and equivalent CLI commands shown for learning.
 
@@ -135,7 +135,7 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 
 ---
 
-## `04` — GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=header&text=04%20%E2%80%94%20GitHub%20Stats&fontSize=24&fontColor=bb9af7&fontAlign=14&fontAlignY=50" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -148,7 +148,7 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 
 ---
 
-## `05` — Currently
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24283b,100:1a1b26&height=60&section=header&text=05%20%E2%80%94%20Currently&fontSize=24&fontColor=bb9af7&fontAlign=14&fontAlignY=50" width="100%" alt="Currently"/>
 
 | | Focus | Details |
 |:-:|:--|:--|
