@@ -1,67 +1,69 @@
-# ImpulseSID
+ <div align="center">
 
-<div align="center">
+<a href="https://github.com/ImpulseSID">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=ImpulseSID&fontSize=48&fontColor=bb9af7&fontAlignY=42&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descSize=16&descAlignY=65&descColor=7aa2f7" width="100%" alt="ImpulseSID — Python, Machine Learning, Data Science"/>
+</a>
 
-# ImpulseSID
+<br/>
 
-**Python · Machine Learning · Data Science**
-
-Building a strong foundation in data-driven systems, machine learning, and software engineering.
-
-[Portfolio](https://impulse-sid-portfolio.vercel.app/) · [GitHub](https://github.com/ImpulseSID)
+<a href="https://impulse-sid-portfolio.vercel.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/sidharthprads/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/ImpulseSID?tab=repositories">Repositories</a>
 
 </div>
 
 ---
 
-## About
+## `01` — About
 
-I'm a developer primarily interested in **Python, machine learning, and data science**. I enjoy working with data, developing analytical workflows, and exploring how machine learning can solve practical problems.
+I'm a developer primarily interested in **Python, machine learning, and data science**. I enjoy exploring datasets, developing analytical workflows, and applying computational techniques to practical problems.
 
-Currently interning at **Ericsson**, gaining industry experience in a professional engineering environment.
+Currently interning at **Ericsson**, gaining experience in a professional engineering environment.
 
 - **Primary focus:** Python, data analysis, machine learning
-- **Core interests:** Exploratory data analysis, feature engineering, model evaluation
-- **Additional skills:** Full-stack development and backend fundamentals
-- **Approach:** Learn by building, experiment systematically, and focus on practical implementation
+- **Interests:** Exploratory data analysis, feature engineering, model evaluation
+- **Additional experience:** Web development, backend fundamentals, and databases
+- **Approach:** Learn through experimentation, build practical solutions, and understand the reasoning behind the results
 
 ---
 
-## Technical Skills
+## `02` — Technical Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Python & Data Science
+### Python & Data Science
 
 **Languages and libraries**
 
-`Python` `NumPy` `Pandas` `Matplotlib`
+`Python` · `NumPy` · `Pandas` · `Matplotlib`
 
 **Areas of focus**
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
 - Feature engineering
-- Data visualization
-- Analytical workflows
+- Statistical analysis and visualization
+- Dataset preparation and transformation
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / Machine Learning
+### Machine Learning
 
-**Tools and frameworks**
+**Frameworks**
 
-`Scikit-learn` `TensorFlow`
+`Scikit-learn` · `TensorFlow`
 
 **Areas of focus**
 
-- Model development and experimentation
+- Supervised learning fundamentals
+- Model experimentation
 - Feature selection and preparation
 - Model evaluation
-- Supervised learning fundamentals
 - Data-driven problem solving
 
 </td>
@@ -69,31 +71,31 @@ Currently interning at **Ericsson**, gaining industry experience in a profession
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Programming
+### Programming
 
 **Languages**
 
-`Python` `C` `C++` `Java`
+`Python` · `C` · `C++` · `Java`
 
 **Fundamentals**
 
 - Data structures and algorithms
-- Problem solving
 - Object-oriented programming
-- Algorithmic thinking
+- Problem solving
+- Algorithm design
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Web Development & Systems
+### Web Development & Systems
 
-**Web technologies**
+**Frontend**
 
-`HTML` `CSS` `JavaScript` `React`
+`HTML` · `CSS` · `JavaScript` · `React`
 
 **Backend and tools**
 
-`Flask` `FastAPI` `Node.js` `SQL` `Git` `Linux`
+`Flask` · `FastAPI` · `Node.js` · `SQL` · `Git` · `Linux`
 
 Working knowledge of web application development, APIs, databases, and development environments.
 
@@ -103,43 +105,76 @@ Working knowledge of web application development, APIs, databases, and developme
 
 ---
 
-## Featured Work
+## `03` — Featured Work
 
 ### SRM Margin Check
 
-A project focused on helping SRM students check and understand their academic margin requirements.
+An academic utility project focused on helping SRM students check their academic margin requirements.
 
-**Technologies:** Python / project-specific stack
+**Focus:** Academic utility · Application development
 
 [View repository →](https://github.com/ImpulseSID/SRM-Margin-Check)
 
----
-
 ### Formula 1 Tyre Strategy Analysis
 
-A data-driven project exploring tyre strategy optimization in Formula 1 using race-session data.
+A data-driven exploration of tyre strategy optimization in Formula 1, using race-session data and the FastF1 Python library.
 
 **Focus areas**
 
-- Race data extraction and analysis using FastF1
+- Extracting and analyzing race-session data
 - Feature engineering for strategy-related variables
-- Data preparation for machine learning
-- Exploring factors that influence tyre strategy
+- Preparing datasets for machine learning
+- Investigating factors that influence tyre strategy
+
+*Add the repository link here once the project repository is available.*
 
 ---
 
-## GitHub
+## `04` — Currently
 
-<div align="center">
+<table>
+<tr>
+<td width="6%" valign="top">01</td>
+<td>
 
-[Explore my repositories](https://github.com/ImpulseSID?tab=repositories) · [View my profile](https://github.com/ImpulseSID)
+**Industry experience**
 
-</div>
+Interning at Ericsson and developing professional engineering experience.
+
+</td>
+</tr>
+<tr>
+<td width="6%" valign="top">02</td>
+<td>
+
+**Data science & machine learning**
+
+Strengthening Python-based analytical skills and machine learning fundamentals.
+
+</td>
+</tr>
+<tr>
+<td width="6%" valign="top">03</td>
+<td>
+
+**Computer science fundamentals**
+
+Continuing to develop problem-solving skills through programming and algorithms.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-*Focused on data, driven by curiosity, built through experimentation.*
+<a href="https://www.linkedin.com/in/sidharthprads/">Connect on LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/ImpulseSID?tab=repositories">Explore my work</a>
+
+<br/><br/>
+
+<sub>Designed around Tokyo Night · Built with curiosity and consistency.</sub>
 
 </div>
