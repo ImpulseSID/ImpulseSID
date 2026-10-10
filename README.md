@@ -55,7 +55,7 @@ class ImpulseSID:
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 Data Science
+#### Data Science
 
 - Data cleaning and preprocessing
 - Exploratory data analysis
@@ -66,7 +66,7 @@ class ImpulseSID:
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 Machine Learning
+#### Machine Learning
 
 - Supervised learning fundamentals
 - Model experimentation
@@ -86,7 +86,7 @@ class ImpulseSID:
 <tr>
 <td width="50%" valign="top">
 
-### 🏎️ [BoxBox](https://github.com/ImpulseSID/BoxBox)
+### [BoxBox](https://github.com/ImpulseSID/BoxBox)
 
 A Python toolkit for analyzing and visualizing **Formula 1 telemetry**. Generates interactive HTML charts, including slider-controlled speed traces for every driver and qualifying track-dominance maps split into 10 m mini-sectors.
 
@@ -97,7 +97,7 @@ A Python toolkit for analyzing and visualizing **Formula 1 telemetry**. Generate
 </td>
 <td width="50%" valign="top">
 
-### 🔒 [NexLock](https://github.com/ImpulseSID/NexLock)
+### [NexLock](https://github.com/ImpulseSID/NexLock)
 
 A secure, user-friendly **password manager** to store, manage, and generate strong passwords. Features Firebase authentication, real-time sync, customizable password generation, and one-click copy.
 
@@ -110,7 +110,7 @@ A secure, user-friendly **password manager** to store, manage, and generate stro
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 [Osvia](https://github.com/ImpulseSID/Osvia)
+### [Osvia](https://github.com/ImpulseSID/Osvia)
 
 A **YouTube Music frontend** with a dark AMOLED theme, real-time audio visualizer, time-synced lyrics, and a drag-and-drop queue. Fully responsive across desktop and mobile.
 
@@ -121,7 +121,7 @@ A **YouTube Music frontend** with a dark AMOLED theme, real-time audio visualize
 </td>
 <td width="50%" valign="top">
 
-### 🐧 [ContainmentOS](https://github.com/ImpulseSID/ContainmentOS)
+### [ContainmentOS](https://github.com/ImpulseSID/ContainmentOS)
 
 A cross-distro **graphical package manager for Linux** built with Electron. Auto-detects APT, DNF, Pacman, and Zypper, with live terminal logs and equivalent CLI commands shown for learning.
 
@@ -144,7 +144,6 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 
 <img src="https://streak-stats.demolab.com?user=ImpulseSID&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImpulseSID&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
@@ -165,7 +164,6 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 <a href="https://www.linkedin.com/in/sidharthprads/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-bb9af7?style=flat-square&labelColor=1a1b26" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/ImpulseSID?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Explore my work"/></a>
 
-<sub>Designed around Tokyo Night · Built with curiosity and consistency</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:24283b,100:1a1b26&height=100&section=footer" width="100%" alt=""/>
 
