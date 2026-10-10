@@ -144,7 +144,6 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 
 <img src="https://streak-stats.demolab.com?user=ImpulseSID&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub streak"/>
 
-
 </div>
 
 ---
@@ -160,10 +159,6 @@ A cross-distro **graphical package manager for Linux** built with Electron. Auto
 ---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sidharthprads/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-bb9af7?style=flat-square&labelColor=1a1b26" alt="Connect on LinkedIn"/></a>
-<a href="https://github.com/ImpulseSID?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Explore my work"/></a>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:24283b,100:1a1b26&height=100&section=footer" width="100%" alt=""/>
 
